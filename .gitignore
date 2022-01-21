@@ -1,0 +1,14 @@
+*.bin
+venv/
+__pycache__/
+*decoded*
+.idea/
+Dataset/
+temp_dataset/
+Model/*.h5
+Model/*.log
+Model/voxelCNN/
+Output/
+Model/*
+removing/
+.DS_Store
